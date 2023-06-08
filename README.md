@@ -1,10 +1,9 @@
 # Infinite-Product
-Exercise 1 - Homework PCLP 1
+##### Exercise 1 - Homework PCLP 1
 
-#### Copyright 2022
-#### Nastase Cristian-Gabriel Grupa 315CA
-#### Tema 1
-#### PCLP
+##### Copyright 2022
+##### Nastase Cristian-Gabriel Grupa 315CA
+##### PCLP
 
 
 ## Problema 1 - Un produs infinit
